@@ -10,7 +10,7 @@ const Sidebar = () => {
     <div className="bg-[#121212] w-[100%] p-2 h-[100%]   flex-col hidden text-white lg:flex">
     
       <div className="flex flex-col gap-4 p-4">
-        <div onClick={()=>navigate("/")} className="flex items-center gap-3 pl-4 cursor-pointer">
+        <div onClick={()=>navigate("/SpotifyClone")} className="flex items-center gap-3 pl-4 cursor-pointer">
           <img className="w-6" src={assets.home_icon} alt="Home Icon" />
           <p className="font-bold">Home</p>
         </div>
