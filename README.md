@@ -1,5 +1,7 @@
-# 🎵 Spotify Clone  
+# 🎵 Spotify Clone 
 
+# 🎵 Demo : 
+https://abdallahnaser.github.io/SpotifyClone/
 ## 📝 Overview  
 **Spotify Clone** is a React-based web application that mimics the basic functionalities of Spotify. The app allows users to browse albums, view album details, and play songs with an interactive user interface.
 
